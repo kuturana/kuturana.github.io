@@ -3,7 +3,6 @@ body {
   color: $font-color;
   font-family: $font-style;
   font-size: 1.1em;
-  line-height: 1.6;
   text-align: justify;
 }
 h1,
@@ -25,6 +24,7 @@ h1 {
   }
 }
 h2 {
+  margin-top: 0;
   font-size: 1.6em;
 }
 header {
@@ -43,4 +43,10 @@ time {
 footer {
   text-align: center;
   padding: 10px;
+}
+hr {
+    height: 1px;
+    color:  #D3D3D3;
+    background-color:  #D3D3D3;
+    border: none;
 }
