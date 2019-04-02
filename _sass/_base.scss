@@ -1,0 +1,17 @@
+$content-width: 730px;
+$main: #FFA500;
+$font-style: Helvetica, Arial, sans-serif;
+$font-color: #262626;
+$link-color: #425469;
+$link-hover-color: $main;
+$heading-font-color: #000000;
+$light: #e7edf4;
+$header: #1d1425;
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
