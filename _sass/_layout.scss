@@ -4,7 +4,6 @@ body {
   font-family: $font-style;
   font-size: 1.1em;
   line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
   text-align: justify;
 }
 h1,
@@ -13,12 +12,12 @@ h3 {
   font-weight: 600;
   color: $font-color;
   font-family: $font-style;
-  line-height: 1.5;
+  line-height: 1.2;
   text-align: center;
 }
 h1 {
   color: $main;
-  font-size: 2.5em;
+  font-size: 2em;
   a,
   a:visited {
     text-decoration: none;
@@ -26,16 +25,11 @@ h1 {
   }
 }
 h2 {
-  font-size: 2em;
+  font-size: 1.6em;
 }
 header {
-  padding: 0px 0px;
+  padding: 0px 10px;
   text-align: center;
-  margin: 0px 0 0;
-  height: 5vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 main {
   padding: 0 15px;
@@ -48,5 +42,5 @@ time {
 }
 footer {
   text-align: center;
-  padding: 40px;
+  padding: 10px;
 }
