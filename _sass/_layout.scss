@@ -31,6 +31,16 @@ header {
   padding: 0px 10px;
   text-align: center;
 }
+a,
+a:visited {
+  color: $link-color;
+  font-weight: bold;
+   text-decoration: none;
+}
+a:hover {
+  color: $link-hover-color;
+   text-decoration: none;
+}
 main {
   padding: 0 15px;
   max-width: $content-width;
@@ -49,4 +59,12 @@ hr {
     color:  #D3D3D3;
     background-color:  #D3D3D3;
     border: none;
+}
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    margin-left: -2px;
+    margin-right: -2px;
+}
+.pagination {
+    text-align: center;
 }

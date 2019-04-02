@@ -12,3 +12,6 @@ include: ['_pages']
 kramdown:
   input: GFM
 excerpt_separator: <!--more-->
+plugins: [jekyll-paginate]
+paginate: 6
+paginate_path: /page:num/
