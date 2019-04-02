@@ -8,7 +8,6 @@ body {
 h1,
 h2,
 h3 {
-  font-weight: 600;
   color: $font-color;
   font-family: $font-style;
   line-height: 1.2;
@@ -16,7 +15,9 @@ h3 {
 }
 h1 {
   color: $main;
-  font-size: 2em;
+  font-size: 3em;
+  font-weight: normal;
+  text-decoration: none;
   a,
   a:visited {
     text-decoration: none;
@@ -26,6 +27,7 @@ h1 {
 h2 {
   margin-top: 0;
   font-size: 1.6em;
+  font-weight: normal;
 }
 header {
   padding: 0px 10px;
@@ -34,8 +36,7 @@ header {
 a,
 a:visited {
   color: $link-color;
-  font-weight: bold;
-   text-decoration: none;
+  text-decoration: none;
 }
 a:hover {
   color: $link-hover-color;
@@ -60,14 +61,6 @@ hr {
     background-color:  #D3D3D3;
     border: none;
 }
-.pagination a, .pagination span {
-    padding: 7px 18px;
-    margin-left: -2px;
-    margin-right: -2px;
-}
-.pagination {
-    text-align: center;
-}
 img {
   max-width: 100%;
   width: auto\9;
@@ -76,3 +69,6 @@ img {
   border: 0;
   -ms-interpolation-mode: bicubic;
 }
+.pagination {
+    text-align: center;
+ }
