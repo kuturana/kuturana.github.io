@@ -1,4 +1,3 @@
----
 @Harari2018 21 Lessons for 21 Century
 ---
 
