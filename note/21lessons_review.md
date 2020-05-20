@@ -1,4 +1,6 @@
+---
 @Harari2018 21 Lessons for 21 Century
+---
 
 # Section I Disillusionment
 - Three grand stories to explain the whole past and future predict of future: the fascist, communist, and liberal story. Fascist story knocked out after WWII, the communist story collapsed after the cold-war, then after economy crisis 2008, people on the world have become increasingly disillusioned with the liberal story.
