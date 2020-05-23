@@ -17,7 +17,7 @@
 - Universal Europe countries experiment with UBI and give the promising result. But the main viction in disruption jobs by AI are developing countries. In twentyfirst-century, developing countries will lack natural resources, selling cheap labour. With AI, cheap unskilled labor would became far less important.
 - If universal safety-net have strong implemented, losing jobs to AI turn out to be blessing. What we should worry is shift in authority from human to AI. It might destroy liberal story and open to digital dictatorship.
 
-# II Liberty
+# III Liberty
 - referendum and election are always about human feeling, not human rationality. If technological ability to hack and manipulate the human heart, democratic politic will mutate into an emotional puppet show.
 - When the biotech revolution merges with infotech revolution, it will produce big data algorithm that can monitor and understand human feeling much better than human themselves, the authority will shift from human to computer.
 - Most people don't know themselves very well. Perhaps the algorithm show the picture of attractive man or woman, and then track your eyes movement, blood pressure and brain activity. Algorithm can tell any teenager exactly he is gay or straight. And it easy for coca-cola if it want to sell fizzy drink to specific person, better to use shirtless guy or shirtless girl. People won't even now, but they (company) will, this information will worth billion.
@@ -27,4 +27,12 @@
 - Hacking human decision-making will not only make big data algorithm more reliable, it will simultaneously make human feeling less reliable. As government and corporation succeed in hacking the human operating system, human will be exposed by manipulation, advertising and propaganda.
 - Once AI makes better decision than us about careers and perhaps even relationship, our concept about humanity and life will be change.
 - Everyday, people absorb countless data from SNS, email, article, but they don't know where they fit into great schema of life, because too busy to consume the information.
-- The danger is if we invest too much in developing AI, and too little in developing human consciousness. People losing the ability to pay attention to their own meal, because busy to businesses thing while eating. People busy to expand investment portfolio, so they strive to understand the mysteries of stock exchange, while making less effort to understand the deep causes of suffering.    
+- The danger is if we invest too much in developing AI, and too little in developing human consciousness. People losing the ability to pay attention to their own meal, because busy to businesses thing while eating. People busy to expand investment portfolio, so they strive to understand the mysteries of stock exchange, while making less effort to understand the deep causes of suffering.
+
+# IV Equality
+- Why equality matter, both democratic and dictatorship government invested heavily in the health, education and welfare of the massive, because they needed millions of healthy laborers to operate the production lines and millions of loyal soldiers.
+- The combination of bioengineeirng coupled with rise of AI result in people lose their economic, political power etc. Resulting inequality gap wider and concentrated in small elite.
+- The ownership of data is to prevent for this. In the past, if too much land became concentrated in too few hands, society split into aristocrats and commoners. In the modern era, if too many machines concentrated in too few hands, society split into capitalist and proletariat. In twentyfirst century, when data became more important, if this commodity concentrated in too few hands, humankind will split into different species.
+- Data company such google and facebook capture our attention by providing us with free information, services and entertainment. They resell the attention to advertisement. We aren't their customers, we are their product. But in the long run, the advertisement will be useless because decision making, to buy something rely on the algorithm.
+- If the data mandated to government, it may result in creepy digital dictatorship. Once political press our emotional button directly, generating anxiety, hatred and joy, politics will become a more emotional circus.
+- People have experience to regulate their ownership of land. We know hot to build a fence in a field, place guard at the gate and control who can go in. But we don't have experience in regulating the ownership of data yet.
