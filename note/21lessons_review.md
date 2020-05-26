@@ -39,11 +39,18 @@
 - If the data mandated to government, it may result in creepy digital dictatorship. Once political press our emotional button directly, generating anxiety, hatred and joy, politics will become a more emotional circus.
 - People have experience to regulate their ownership of land. We know hot to build a fence in a field, place guard at the gate and control who can go in. But we don't have experience in regulating the ownership of data yet.
 
-# Social Challanges
+# Social Challenges
 
-## V Communitiy
+## V Community
 - Facebook, by their manifesto try to push how human create and identify community, by using AI to strengthen our social fabric and bring the world closer together. But most of us find it is impossible to rely more than 150 individuals. People try to regulate small groups of people with imaginary of communities called nation and political parties, but they can't provide warm intimacy. Consequently people then ever more lonely lives in an ever more connected planet.
 - In the past, human could not afford such carelessness. Ancient human, forager, more always alert and and attention giver, to stay safe they must find what kind of mushrooms, listen to grass to learn whatever snake may be lurking. Today, we are luckily don't need this awareness. We can buy anything food because already supervised by health authorities. But is still ended eating in front of screen while hardly paying attention to actual taste.
 - People need tool to connect to their own experience. But instant gratification "like", what we feel is increasingly determined by the other online reaction.
 - Social media business model encouraged people to spend more and ore time online, means less time and energy to devote to offline activity. Human have body, therefore needs road, hospital, etc which build by tax. The online company don't see this matter important because they accused by tax evasion.
 - Some devices such google glass and pokemon go try to bridging between online and offline . Deeper, with biometric sensor, once the tech-giant came to human body, they might end up manipulating our entire bodies in the some way they currently manipulate our eyes, fingers and credit card.  
+
+## VI Civilization
+- Revolutionary is about story telling skill. People, often refuse to see the changes the revolutionary, especially when it comes to core political and religious values.
+- Humankind was divided into countless isolated tribes, then fused into larger and larger groups, creating fewer distinct civilization. The unification process itself taken by establishing links between distinct groups and homogenizing practices across groups links may be formed even between groups that behave differently, like enemies band by war.
+- Now, people agree on sigh political paradigm have general diplomatic protocol on common international laws. Even the national anthem, almost the same throughout the world, indicating common conception of politics and groups of loyalty. When watching Olimpiade, there is more pride than national delegation win a medal, that's humankind is capable of organizing such an event.
+- A thousand years ago, every culture had its own stay about the universe, but today the world believe exactly the same understand about matter, energy, time and space. People have different religious and national identities. But when it comes to practical stuff, all of us belong to the same civilization.
+- Talking about big challenge when global nature, we  will have huge arguments and conflicts are not isolate us with on another. They will make us ever more interdependent. We are members of a single global civilization. 
